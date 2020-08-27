@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89832" started-at="2020-08-27T10:04:47 IST" finished-at="2020-08-27T10:06:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89832" started-at="2020-08-27T10:04:47 IST" finished-at="2020-08-27T10:06:17 IST">
+      <class name="com.vcentry.lab.testCases.HomePageTest">
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="validateHomePage" duration-ms="17637" started-at="2020-08-27T10:04:48 IST" data-provider="HomePageTest" finished-at="2020-08-27T10:05:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guru@12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[produtA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mailA@email.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Electrical]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[purchaseNameA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="teardown" is-config="true" duration-ms="593" started-at="2020-08-27T10:05:06 IST" finished-at="2020-08-27T10:05:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="validateHomePage" duration-ms="14245" started-at="2020-08-27T10:05:06 IST" data-provider="HomePageTest" finished-at="2020-08-27T10:05:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guru@12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[produtB]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2222]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mailB@email.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Electrical]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[purchaseNameB]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="teardown" is-config="true" duration-ms="134" started-at="2020-08-27T10:05:20 IST" finished-at="2020-08-27T10:05:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="validateHomePage" duration-ms="34811" started-at="2020-08-27T10:05:21 IST" data-provider="HomePageTest" finished-at="2020-08-27T10:05:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guru@12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[produtC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3333]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mailC@email.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Electrical]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[purchaseNameC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="teardown" is-config="true" duration-ms="123" started-at="2020-08-27T10:05:55 IST" finished-at="2020-08-27T10:05:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="validateHomePage" duration-ms="21276" started-at="2020-08-27T10:05:55 IST" data-provider="HomePageTest" finished-at="2020-08-27T10:06:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guru@12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[produtD]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[4444]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mailD@email.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Electrical]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[purchaseNameD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b]" name="teardown" is-config="true" duration-ms="121" started-at="2020-08-27T10:06:17 IST" finished-at="2020-08-27T10:06:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.lab.testCases.HomePageTest@517cd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.vcentry.lab.testCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
